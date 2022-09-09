@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+C:\Users\shital.shewale\Downloads\eclipse-java-2022-06-R-win32-x86_64\.metadata\.plugins\org.eclipse.jdt.core
+1440166157.index
+1865797976.index
+4170722954.index
+1458368343.index
+241439033.index
+3225391296.index
+2769727408.index
+632500973.index
+2284421061.index
+3426228814.index
+3547253364.index
+1430535896.index
+1402819045.index
+2111618440.index
+721436142.index
+4224942164.index
+3730831276.index
+653036734.index
+1920873149.index
+736031690.index
+4139067940.index
+4263055999.index
+790067060.index
+2994162563.index
+659112907.index

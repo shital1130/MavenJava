@@ -1,0 +1,23 @@
+package AbstractComponent;
+
+public class ConfirmationPage extends Abstractcomponent {
+	WebDriver driver;
+
+	public ConfirmationPage(WebDriver driver) {
+		super(driver);
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
+		
+
+	}
+	
+	@FindBy(css = ".hero-primary")
+	WebElement confirmationMessage;
+	
+	public String getConfirmationMessage()
+	{
+		CheckoutPage cp = new CheckoutPage(driver);	
+		return confirmationMessage.getText();
+	}
+	
+}

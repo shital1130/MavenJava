@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;chromedriver&apos; to &apos;demo&apos;&#x0D;&#x0A;- Original project: &apos;demopro&apos;&#x0D;&#x0A;- Destination element: &apos;demo&apos;&#x0D;&#x0A;- Original element: &apos;chromedriver&apos;" description="Copy folder" destination="=demo" element1="chromedriver" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658999935015" units="0" version="1.0"/>
+</session>
